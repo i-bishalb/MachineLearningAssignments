@@ -4,21 +4,21 @@ In this project, we are going to predict housing prices for the boston housing d
 ### Final Predictions:
 
 #### Linear Regression:
-Train (R2 score) 		:      0.73
+Train (R2 score) 		:      0.73 <br>
 Test (R2 score) 		:      0.79 
 
 #### Linear Regression (Polynomial, degree = 2):
-Train (R2 score) 		:      0.93
+Train (R2 score) 		:      0.93 <br>
 Test  (R2 score) 		:      0.86 
 
 #### Ridge Regression (Polynomial, degree = 2):
-Train (R2 score) 		:      0.92
+Train (R2 score) 		:      0.92 <br>
 Test  (R2 score) 		:      0.90
 
 #### Lasso Regression (Polynomial, degree = 2):
-Train (R2 score) 		:      0.92
+Train (R2 score) 		:      0.92 <br>
 Test  (R2 score) 		:      0.90
 
 #### ElasticNet Regression (Polynomial, degree = 2):
-Train (R2 score) 		:      0.91
+Train (R2 score) 		:      0.91 <br>
 Test  (R2 score) 		:      0.90
