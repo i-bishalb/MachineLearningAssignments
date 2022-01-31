@@ -1,1 +1,1 @@
-
+In this project, I have carried out binary classification prediction to predict customers churning or not-churing. I have used 7 classifiers for the problem namely: **Logistic Regression**, **Random Forest Classifier**, **Decision Tree Classifier**, **K Neighbors Classifier**, **Support Vector Machine Classifier** and Boosting methods **Ada Boost Classifier** and **Gradient Boosting Classifier**. The two boosting methods and Random Forest Classifier have the best predictions.
