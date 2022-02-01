@@ -11,5 +11,7 @@
 2. **Classification**
    1. [Churn prediction](https://github.com/i-bishalb/MachineLearningAssignments/blob/main/Bank_Customers_Churn_Classification/Churn_Classification.ipynb): <br>
            In this project, I have carried out binary classification prediction to predict customers churning or not-churing. I have used 7 classifiers for the problem namely: **Logistic Regression**, **Random Forest Classifier**, **Decision Tree Classifier**, **K Neighbors Classifier**, **Support Vector Machine Classifier** and Boosting methods **Ada Boost Classifier** and **Gradient Boosting Classifier**. The two boosting methods and Random Forest Classifier have the best predictions. A majority **Voting classifier** shows same accuracy as the best three classifiers. 
+   2. [Loan Default Prediction](https://github.com/i-bishalb/MachineLearningAssignments/blob/main/Loan_Default_Prediction/Single_family_loan_prediction.ipynb): <br>
+           In this project, I have carried out classification prediction to predict whether a loan will default or not. I have used 4 classifires for the problem: **Logistic Regression**, **Random Forest Classifier**, **K Neighbors Classifier** and **Gradient Boosting Classifier**. The simplest classifier (Logistic Regression) does the best job of predicting loan default.
         
    
