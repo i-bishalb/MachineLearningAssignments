@@ -1,1 +1,1 @@
-
+In this project, I have carried out Time-series analysis and build models using ARIMA and LSTM to predict stock prices. The deep-learning based LSTM models does much better job in understanding the complex pattern and predicting the stock prices.
