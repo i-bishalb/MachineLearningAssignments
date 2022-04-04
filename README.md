@@ -14,4 +14,9 @@
    2. [Loan Default Prediction](https://github.com/i-bishalb/MachineLearningAssignments/blob/main/Loan_Default_Prediction/Single_family_loan_prediction.ipynb): <br>
            In this project, I have carried out classification prediction to predict whether a loan will default or not. I have used 4 classifires for the problem: **Logistic Regression**, **Random Forest Classifier**, **K Neighbors Classifier** and **Gradient Boosting Classifier**. The simplest classifier (Logistic Regression) does the best job of predicting loan default.
         
-   
+ 3. **Deep Learning and Neural Networks**
+       1. [Fashion Classification](https://github.com/i-bishalb/MachineLearningAssignments/blob/main/Zalando_Fashion_Classification/Zalando_Clothing_Classification.ipynb):
+         In this project, I have carried out image classfication from Zalando image dataset. I have utilized **Convolution Neural Network (CNN)** to train the model. I have build a simple model first and a complex model. The complex model make a better prediction (88 % versus 91 %). I have further utilized **Keras-Tuner** to tune hyperparameters for the **CNN** model.
+       2. [Predicting Stock Prices](https://github.com/i-bishalb/MachineLearningAssignments/blob/main/Predicting_Stock_Prices/Stock_Prices_Prediction.ipynb):
+         In this project, I have carried out **Time-series analysis** and build models using **ARIMA** and **LSTM**  to predict stock prices. The deep-learning based LSTM models does much better job in understanding the complex pattern and predicting the stock prices.
+ 
